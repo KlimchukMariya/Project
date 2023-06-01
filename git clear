@@ -1,0 +1,43 @@
+[33mcommit 6b75aa8b8172b53646aa5ce1427a01cdcf9289d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KlimchukMariya <Klimchuk_mariya@mail.ru>
+Date:   Thu Jun 1 19:49:04 2023 +0300
+
+    style
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3408e35..cde9236 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,6 +5,11 @@[m
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+     <title>Document</title>[m
+[32m+[m[32m    <style>[m
+[32m+[m[32m        body{[m
+[32m+[m[32m            background-color: pink;[m
+[32m+[m[32m        }[m
+[32m+[m[32m    </style>[m
+ </head>[m
+ <body>[m
+     <div></div>[m
+
+[33mcommit 127555ed4327be0df5485a6e81e012451da699e5[m
+Author: KlimchukMariya <Klimchuk_mariya@mail.ru>
+Date:   Thu Jun 1 19:44:05 2023 +0300
+
+    new block
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 56efbdb..3408e35 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,6 +7,7 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[31m-    [m
+[32m+[m[32m    <div></div>[m
+[32m+[m[32m    <div></div>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
